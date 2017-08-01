@@ -1,0 +1,9 @@
+c:\users\rai\documents\visual studio 2017\Projects\EjercicioPolimorfismo\EjercicioPolimorfismo\bin\Debug\netcoreapp1.1\EjercicioPolimorfismo.deps.json
+c:\users\rai\documents\visual studio 2017\Projects\EjercicioPolimorfismo\EjercicioPolimorfismo\bin\Debug\netcoreapp1.1\EjercicioPolimorfismo.runtimeconfig.json
+c:\users\rai\documents\visual studio 2017\Projects\EjercicioPolimorfismo\EjercicioPolimorfismo\bin\Debug\netcoreapp1.1\EjercicioPolimorfismo.runtimeconfig.dev.json
+c:\users\rai\documents\visual studio 2017\Projects\EjercicioPolimorfismo\EjercicioPolimorfismo\bin\Debug\netcoreapp1.1\EjercicioPolimorfismo.dll
+c:\users\rai\documents\visual studio 2017\Projects\EjercicioPolimorfismo\EjercicioPolimorfismo\bin\Debug\netcoreapp1.1\EjercicioPolimorfismo.pdb
+c:\users\rai\documents\visual studio 2017\Projects\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\netcoreapp1.1\EjercicioPolimorfismo.csprojResolveAssemblyReference.cache
+c:\users\rai\documents\visual studio 2017\Projects\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\netcoreapp1.1\EjercicioPolimorfismo.AssemblyInfo.cs
+c:\users\rai\documents\visual studio 2017\Projects\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\netcoreapp1.1\EjercicioPolimorfismo.dll
+c:\users\rai\documents\visual studio 2017\Projects\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\netcoreapp1.1\EjercicioPolimorfismo.pdb
